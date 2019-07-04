@@ -1,0 +1,2 @@
+export const API_URL = 'http://127.0.0.1:7777/api/rest'
+export default API_URL
